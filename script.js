@@ -7,7 +7,7 @@ phina.globalize();
 var SCREEN_WIDTH    = 640;
 var SCREEN_HEIGHT   = 960;
 
-var CONFIG_PUYO_IMG_WIDTH  = 34;/ ぷよぷよ画像の幅
+var CONFIG_PUYO_IMG_WIDTH  = 34; //  ぷよぷよ画像の幅
 var CONFIG_PUYO_IMG_HEIGHT = 68; // ぷよぷよ画像の高さ
 var CONFIG_STAGE_COLS = 6;
 var CONFIG_STAGE_ROWS = 12;
